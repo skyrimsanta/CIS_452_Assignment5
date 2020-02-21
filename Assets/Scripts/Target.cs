@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * (Levi Schoof)
+ * (Target)
+ * (Assignment 5)
+ * (Handles the random color of the pillar and the collision)
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

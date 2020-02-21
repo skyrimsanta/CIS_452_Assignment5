@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * (Levi Schoof)
+ * (GameManager)
+ * (Assignment 5)
+ * (Handles the behind the scenes of the game)
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

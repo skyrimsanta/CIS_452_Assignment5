@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * (Levi Schoof)
+ * (PlayerShoot)
+ * (Assignment 5)
+ * (The client class that feeds information in the BulletFactory)
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

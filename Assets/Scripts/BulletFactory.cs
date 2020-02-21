@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * (Levi Schoof)
+ * (BulletFactory)
+ * (Assignment 5)
+ * (The Factory that handles the creation of the two types of bullets)
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

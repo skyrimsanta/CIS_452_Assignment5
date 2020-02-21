@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * (Levi Schoof)
+ * (PlayerMovement)
+ * (Assignment 5)
+ * (Handles the rotation and movement of the player)
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
